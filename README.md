@@ -1,15 +1,16 @@
-# Hi 👋, I'm Winifred
+# Hi 👋, I'm Winifred Esinam Kokosu
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Node.js+Developer;Go+Developer;PHP+Developer;Building+APIs+and+Tools&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Backend+Developer;Learning+Node.js+and+Go;Building+APIs+and+Tools;Software+Engineering+Student&center=true&width=500&height=50)
 
-## 🚀 Backend-Focused Developer & Software Engineering Student
+## 🚀 Aspiring Backend Developer & Software Engineering Student
 
-I enjoy building backend systems, APIs, authentication systems, and developer tools.  
-Currently exploring scalable backend architecture and modern web technologies.
+I'm currently learning backend development and exploring how modern systems, APIs, authentication services, and developer tools are built.
 
----
+I enjoy working with backend technologies and continuously improving my development skills through projects and experimentation.
 
-## 🔧 Tech Stack
+
+
+## 🔧 Technologies I've Worked With
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -29,42 +30,34 @@ Currently exploring scalable backend architecture and modern web technologies.
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## 💡 What I'm Currently Working On
 
-- Backend API development
-- Authentication systems
+## 💡 Currently Learning
+
+- Backend API Development
+- Node.js & Express.js
+- Go for backend services
 - MCP servers and tooling
-- Learning scalable backend architecture
-- Building projects with Node.js & Express.js
+- Software architecture fundamentals
 
----
 
-## 🛠 Featured Experience
 
-- Built Firebase Notification using Go
-- Worked with MCP server integrations and tools
-- Developed backend APIs using Node.js and Express.js
-- Built PHP applications and explored PHP libraries
-- Created frontend pages with HTML & CSS
+## 🛠 Projects & Experience
 
----
+- Worked with Firebase Notification using Go
+- Explored MCP server integrations and tools
+- Built backend APIs with Node.js and Express.js
+- Created PHP-based applications
+- Built frontend pages using HTML & CSS
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinifredEsinam-pro&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinifredEsinam-pro&layout=compact&theme=tokyonight)
-
----
 
 ## 🌍 Connect With Me
 
 - GitHub: https://github.com/WinifredEsinam-pro
 
----
 
 ## ⚡ Fun Fact
 
-I enjoy understanding how systems work behind the scenes and building backend solutions that solve real-world problems.
+I enjoy learning how systems work behind the scenes and building projects that improve my backend development skills.
