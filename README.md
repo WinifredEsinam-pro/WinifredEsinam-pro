@@ -30,6 +30,9 @@ I enjoy working with backend technologies and continuously improving my developm
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 
 ## 💡 Currently Learning
